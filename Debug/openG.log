@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetPrimaryMonitor referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwGetVideoMode referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwSetWindowPos referenced in function _main
+main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+D:\openGL\openGL\libraries\lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\openGL\openGL\Debug\openG.exe : fatal error LNK1120: 10 unresolved externals

@@ -1,0 +1,2 @@
+D:\openGL\openGL\x64\Debug\openG.exe
+D:\CocoGames\Robot\x64\Debug\openG.exe

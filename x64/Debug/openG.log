@@ -1,0 +1,32 @@
+﻿  main.cpp
+D:\CocoGames\Robot\main.cpp(142,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CocoGames\Robot\main.cpp(143,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CocoGames\Robot\main.cpp(147,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CocoGames\Robot\main.cpp(148,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CocoGames\Robot\main.cpp(149,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CocoGames\Robot\main.cpp(150,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CocoGames\Robot\main.cpp(281,49): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+D:\CocoGames\Robot\main.cpp(480,81): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(506,86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(521,87): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(533,86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(548,86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(561,88): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(573,86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(589,88): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(600,80): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(614,88): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(629,86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(642,88): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(656,86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(668,88): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(678,86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(691,88): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(703,86): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\CocoGames\Robot\main.cpp(446,39): warning C4101: 'extraSphereVBO7': unreferenced local variable
+D:\CocoGames\Robot\main.cpp(446,56): warning C4101: 'extraSphereEBO7': unreferenced local variable
+  openG.vcxproj -> D:\CocoGames\Robot\x64\Debug\openG.exe
